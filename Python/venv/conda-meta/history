@@ -1,22 +1,33 @@
-==> 2025-07-16 15:52:35 <==
-# cmd: D:\Anaconda\Scripts\conda-script.py create -p venv python=3.12
+==> 2025-07-27 19:17:29 <==
+# cmd: /home/abhi/Downloads/enter/bin/conda create -p venv python=3.11 -y
 # conda version: 25.5.1
++defaults/linux-64::_libgcc_mutex-0.1-main
++defaults/linux-64::_openmp_mutex-5.1-1_gnu
++defaults/linux-64::bzip2-1.0.8-h5eee18b_6
++defaults/linux-64::ca-certificates-2025.2.25-h06a4308_0
++defaults/linux-64::expat-2.7.1-h6a678d5_0
++defaults/linux-64::ld_impl_linux-64-2.40-h12ee557_0
++defaults/linux-64::libffi-3.4.4-h6a678d5_1
++defaults/linux-64::libgcc-ng-11.2.0-h1234567_1
++defaults/linux-64::libgomp-11.2.0-h1234567_1
++defaults/linux-64::libstdcxx-ng-11.2.0-h1234567_1
++defaults/linux-64::libuuid-1.41.5-h5eee18b_0
++defaults/linux-64::libxcb-1.17.0-h9b100fa_0
++defaults/linux-64::ncurses-6.4-h6a678d5_0
++defaults/linux-64::openssl-3.0.17-h5eee18b_0
++defaults/linux-64::pthread-stubs-0.3-h0ce48e5_1
++defaults/linux-64::python-3.11.13-h1a3bd86_0
++defaults/linux-64::readline-8.2-h5eee18b_0
++defaults/linux-64::setuptools-78.1.1-py311h06a4308_0
++defaults/linux-64::sqlite-3.50.2-hb25bd0a_1
++defaults/linux-64::tk-8.6.14-h993c535_1
++defaults/linux-64::wheel-0.45.1-py311h06a4308_0
++defaults/linux-64::xorg-libx11-1.8.12-h9b100fa_1
++defaults/linux-64::xorg-libxau-1.0.12-h9b100fa_0
++defaults/linux-64::xorg-libxdmcp-1.1.5-h9b100fa_0
++defaults/linux-64::xorg-xorgproto-2024.1-h5eee18b_1
++defaults/linux-64::xz-5.6.4-h5eee18b_1
++defaults/linux-64::zlib-1.2.13-h5eee18b_1
 +defaults/noarch::pip-25.1-pyhc872135_2
 +defaults/noarch::tzdata-2025b-h04d1e81_0
-+defaults/win-64::bzip2-1.0.8-h2bbff1b_6
-+defaults/win-64::ca-certificates-2025.2.25-haa95532_0
-+defaults/win-64::expat-2.7.1-h8ddb27b_0
-+defaults/win-64::libffi-3.4.4-hd77b12b_1
-+defaults/win-64::openssl-3.0.16-h3f729d1_0
-+defaults/win-64::python-3.12.11-h716150d_0
-+defaults/win-64::setuptools-78.1.1-py312haa95532_0
-+defaults/win-64::sqlite-3.45.3-h2bbff1b_0
-+defaults/win-64::tk-8.6.14-h5e9d12e_1
-+defaults/win-64::ucrt-10.0.22621.0-haa95532_0
-+defaults/win-64::vc-14.3-h2df5915_10
-+defaults/win-64::vc14_runtime-14.44.35208-h4927774_10
-+defaults/win-64::vs2015_runtime-14.44.35208-ha6b5a95_10
-+defaults/win-64::wheel-0.45.1-py312haa95532_0
-+defaults/win-64::xz-5.6.4-h4754444_1
-+defaults/win-64::zlib-1.2.13-h8cc25b3_1
-# update specs: ['python=3.12']
+# update specs: ['python=3.11']
